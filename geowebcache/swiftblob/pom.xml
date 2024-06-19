@@ -6,7 +6,7 @@
   <parent>
     <groupId>org.geowebcache</groupId>
     <artifactId>geowebcache</artifactId>
-    <version>1.24.0-NIVA</version>
+    <version>1.24.1-NIVA</version>
     <!-- GWC VERSION -->
   </parent>
 
