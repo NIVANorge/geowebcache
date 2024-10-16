@@ -6,7 +6,7 @@
   <parent>
     <groupId>org.geowebcache</groupId>
     <artifactId>gwc-diskquota</artifactId>
-    <version>1.24.2-NIVA</version>
+    <version>1.24.3-NIVA</version>
     <!-- GWC VERSION -->
   </parent>
   <groupId>org.geowebcache</groupId>
