@@ -39,19 +39,14 @@
 
   <distributionManagement>
     <repository>
-      <id>nexus</id>
-      <name>OSGeo GeoServer Release Repository</name>
-      <url>https://repo.osgeo.org/repository/Geoserver-releases/</url>
+      <id>github</id>
+      <name>GitHub Packages NIVANorge</name>
+      <url>https://maven.pkg.github.com/nivanorge/maven</url>
     </repository>
-    <snapshotRepository>
-      <id>nexus</id>
-      <name>OSGeo GeoServer Snapshot Repository</name>
-      <url>https://repo.osgeo.org/repository/geoserver-snapshots/</url>
-    </snapshotRepository>
   </distributionManagement>
 
   <properties>
-    <gt.version>35.3-NIVA</gt.version>
+    <gt.version>35.4-NIVA</gt.version>
     <spring.version>7.0.7</spring.version>
     <spring.security.version>7.0.4</spring.security.version>
     <xstream.version>1.4.21</xstream.version>
