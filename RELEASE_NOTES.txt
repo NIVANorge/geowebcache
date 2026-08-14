@@ -1,3 +1,15 @@
+GeoWebCache 2.0.1 (2026-08-14)
+------------------------------
+
+<Release Description>
+
+Improvements:
++++++++++++++
+- Support [GEOS-12149] GeoServer WMTS capabilities put query parameters in the wrong place in generated URLs
+- Library updates, Spring security 7.0.5, commons codec 1.22.0
+- Allow parameter filters to be private and not exposed in capabilities OL preview and the like
+
+
 GeoWebCache 2.0.0 (2026-06-10)
 ------------------------------
 
